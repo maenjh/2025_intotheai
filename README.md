@@ -82,6 +82,17 @@ pip install torch torchvision matplotlib scikit-learn tqdm pillow
 
 ---
 
+### 결과
+
+#### training history
+![training_history](https://github.com/user-attachments/assets/73fecac8-b208-4367-8cd7-92360724fced)
+#### confusion matrix
+![confusion_matrix](https://github.com/user-attachments/assets/b1c9dbf4-d5da-4097-aaba-82a98a1884c8)
+#### prediction samples
+![prediction_samples](https://github.com/user-attachments/assets/3c8e3e2f-961b-49be-b96f-76d3c6e0b3f4)
+
+
+---
 ### 📌 기타 참고
 
 - 모델 파일 저장 경로 및 출력 이미지 파일 경로는 필요시 노트북 내에서 사용자 환경에 맞게 수정 필요
