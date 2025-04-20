@@ -88,5 +88,3 @@ pip install torch torchvision matplotlib scikit-learn tqdm pillow
 - 데이터셋이 큰 경우 `batch_size` 및 `num_workers` 설정 조절 가능
 
 ---
-
-필요시 `README.md`를 프로젝트 루트에 저장해 바로 볼 수 있도록 하면 좋습니다. 원하시면 바로 `.md` 파일로도 만들어드릴게요.
